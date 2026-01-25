@@ -1,7 +1,7 @@
 {
   "name": "safine_clone",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "pages/page.js",
   "scripts": {
     "dev": "next dev -p 3030"
   },
